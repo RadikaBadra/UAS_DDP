@@ -1,1 +1,1 @@
-https://discord.com/channels/@me/864358015444058154/927780885137334372
+https://www.loom.com/share/ce63779db6dc405aa56c954970299ba4
