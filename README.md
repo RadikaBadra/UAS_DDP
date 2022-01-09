@@ -1,1 +1,1 @@
-# UAS_DDP
+https://discord.com/channels/@me/864358015444058154/927780885137334372
