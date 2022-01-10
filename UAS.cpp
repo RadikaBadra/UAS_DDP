@@ -198,7 +198,7 @@ pilih_role:
                     {
                         if (nama_barang[i] != "dihapus")
                         {
-                            cout << "id barang : " << i << " , Nama Barang : " << nama_barang[i] << " , Kuantitas Barang" << kuantitas_barang[i] << " , Harga Barang : " << harga_barang[i] << endl;
+                            cout << "id barang : " << i << " , Nama Barang : " << nama_barang[i] << " , Kuantitas Barang : " << kuantitas_barang[i] << " , Harga Barang : " << harga_barang[i] << endl;
                         }
                     }
                 }
